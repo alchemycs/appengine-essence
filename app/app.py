@@ -2,7 +2,7 @@
 
 # Import the application framework
 import webapp2
-from google.appengine.ext.webapp.util import run_wsgi_app
+
 from tools.common import is_testenv
 
 # Import our application settings/configuration
